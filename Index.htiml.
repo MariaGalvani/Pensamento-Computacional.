@@ -18,21 +18,3 @@
                <li><a target = ´´ blank´´ 
 href = ´´https://www.consultaescolar.pr.gov.br/´´>site do colegio</li>
                <li><a target = ´´ blank´´
-href = ´´https://www.faceook.com/profile.php?
-id = 10000982499964´´ >Faceook</li></a>
-           </ul>
-       </nav>
-   </header>
-   <main>
-       <h1>TITULO DA PAGINA</h1>
-           <div class = ´´PRIMEIROPARAGRAFO´´>
-            <h3>TITULO DO TEXTO</h3>
-            <p><i></i><b>TEXTO</b></i></p>
-            <ul id = ´´lista02´´>
-               <li>ITEM01</li>
-               <li>ITEM02</li>
-               <li>ITEM03</li>
-           </ul>
-           </div>
-       <h1 *** </h1>
-    </main>
